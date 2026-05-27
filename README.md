@@ -27,11 +27,32 @@ The dataset contains 14 tables covering:
 - Safety Incidents
 
 ## Dashboard Pages
-1. Executive Overview — Revenue, trips, on time rate and fleet utilization
-2. Operational Efficiency — Fuel costs, route performance and facility detention
-3. Driver and Fleet Performance — Driver revenue, fleet health and maintenance
-4. Safety Performance — Incidents, violations and cargo damage
-5. Data Insights — Key findings, data quality issues and recommendations
+
+### 1. Executive Overview
+Revenue, trips completed, on time rate and fleet utilization summary.
+
+![Executive Overview](01-executive-overview.png)
+
+### 2. Operational Efficiency
+Fuel costs, route performance and facility detention analysis.
+
+![Operational Efficiency](02-operational-efficiency.png)
+
+### 3. Driver and Fleet Performance
+Driver revenue, fleet health and maintenance cost analysis.
+
+![Driver and Fleet Performance](03-driver-fleet-performance.png)
+
+### 4. Safety Performance
+Incidents, violations, cargo damage and safety trends.
+
+![Safety Performance](04-safety-performance.png)
+
+### 5. Data Insights
+Key findings, data quality issues and business recommendations.
+
+![Data Insights](05-data-insights.png)
+
 
 ## Key Findings
 - On time delivery rate of 33.36% — critically below 95% industry standard
